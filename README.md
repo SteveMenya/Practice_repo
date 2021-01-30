@@ -1,3 +1,3 @@
 # Demo
 
-Practice repository!
+Practice repository
